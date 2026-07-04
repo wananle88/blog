@@ -4,9 +4,7 @@ date: 2026-07-04
 category: 资源
 ---
 
-# GitHub Star 项目清单
-
-共 **386** 个 GitHub Star 项目，按收藏时间倒序排列。
+# GitHub Star 项目收藏列表
 
 | 项目简介 | 项目地址 |
 | --- | --- |
